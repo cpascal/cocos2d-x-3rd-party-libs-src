@@ -19,3 +19,6 @@
 [submodule "deps/libfreetype"]
 	path = deps/libfreetype
 	url = https://github.com/ricardoquesada/libfreetype.git
+[submodule "deps/libwebp"]
+	path = deps/libwebp
+	url = https://github.com/dumganhar/libwebp.git
