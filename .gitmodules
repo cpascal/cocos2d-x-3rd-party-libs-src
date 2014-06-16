@@ -1,3 +1,21 @@
 [submodule "deps/SpiderMonkey"]
 	path = deps/SpiderMonkey
 	url = https://github.com/ricardoquesada/Spidermonkey.git
+[submodule "deps/libwebsockets"]
+	path = deps/libwebsockets
+	url = https://github.com/dumganhar/libwebsockets.git
+[submodule "deps/libpng"]
+	path = deps/libpng
+	url = https://github.com/dumganhar/libpng.git
+[submodule "deps/sqlite3"]
+	path = deps/sqlite3
+	url = https://github.com/dumganhar/sqlite3.git
+[submodule "deps/libcurl-android"]
+	path = deps/libcurl-android
+	url = https://github.com/minggo/libcurl-build.git
+[submodule "deps/libcurl-ios"]
+	path = deps/libcurl-ios
+	url = https://github.com/boyu0/cURL-SSL-for-iOS.git
+[submodule "deps/libfreetype"]
+	path = deps/libfreetype
+	url = https://github.com/ricardoquesada/libfreetype.git
