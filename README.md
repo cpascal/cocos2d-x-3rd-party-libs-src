@@ -19,6 +19,7 @@ As an example, if you want to support cocos2d-x in ARM64, you need to compile al
 
   * ANGLE: https://code.google.com/p/angleproject/
   * curl: http://curl.haxx.se/
+  * fbx-conv: https://github.com/lvlonggame/fbx-conv
   * GLEW: http://glew.sourceforge.net/
   * glfw: http://www.glfw.org/
   * jpeg: http://www.ijg.org/
