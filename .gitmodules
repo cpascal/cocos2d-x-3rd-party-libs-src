@@ -22,9 +22,6 @@
 [submodule "deps/libwebp"]
 	path = deps/libwebp
 	url = https://github.com/cpascal/libwebp.git
-[submodule "fbx-conv"]
-	path = fbx-conv
-	url = git://github.com/lvlonggame/fbx-conv.git
 [submodule "deps/fbx-conv"]
 	path = deps/fbx-conv
 	url = https://github.com/lvlonggame/fbx-conv.git
